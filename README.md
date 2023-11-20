@@ -5,8 +5,8 @@ This is a simple Web application CRUD (Create, Read, Update, Delete) using React
 ## Installation
 
 ```
-git clone https://github.com/FaztWeb/react-rtk-crud
-cd react-rtk-crud
+git clone https://github.com/hgmancholam/react-toolkit-crud
+cd react-toolkit-crud
 npm i
 npm start
 ```
